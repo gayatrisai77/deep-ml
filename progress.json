@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T06:25:44.375Z",
+  "generated_at": "2026-09-19T13:42:10.479Z",
   "items": {
     "problem:1201": {
       "kind": "problem",
@@ -52,6 +52,19 @@
       "last_pushed_at": "2026-09-19T06:25:43.385Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:1206": {
+      "kind": "problem",
+      "id": "1206",
+      "title": "Add Two Matrices (2D Grid)",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1206",
+      "path": "problems/1206-add-two-matrices-2d-grid",
+      "first_solved_at": "2026-09-19T13:42:09.687Z",
+      "last_pushed_at": "2026-09-19T13:42:09.687Z",
+      "language": "python",
+      "lines": 59
     }
   }
 }
